@@ -171,7 +171,7 @@ REFRESH_TOKEN_SECRET=your_refresh_token_secret
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
----
+
 
 ### 3. Run the Application
 
@@ -187,7 +187,7 @@ Start Frontend:
 npm start
 ```
 
----
+
 
 ## API Endpoints
 
@@ -199,7 +199,7 @@ npm start
 * GET `/api/v1/users/getme`
 * GET `/api/v1/users/refresh-access-token`
 
----
+
 
 ### Scheme Routes
 
@@ -209,23 +209,23 @@ npm start
 * POST `/api/v2/schemes/save-favorite-schemes`
 * DELETE `/api/v2/schemes/remove-favorite-schemes/:id`
 
----
+
 
 ### Chatbot Route
 
 * POST `/api/v1/chatbot`
 
----
+
 
 ### Recommendation Route
 
 * GET `/api/v1/users/personalized`
 
----
+
 
 ## Folder Structure
 
-```
+
 scheme-seva/
 │
 ├── Frontend/
@@ -240,9 +240,9 @@ scheme-seva/
 │   ├── middleware/
 │
 └── README.md
-```
 
----
+
+
 
 ## Future Enhancements
 
@@ -252,7 +252,6 @@ scheme-seva/
 * Direct application submission
 * Admin dashboard for scheme management
 
----
 
 ## Contributing
 
@@ -263,13 +262,13 @@ Contributions are welcome. Please follow standard GitHub practices:
 3. Commit your changes
 4. Submit a pull request
 
----
+
 
 ## License
 
 This project is licensed under the MIT License.
 
----
+
 
 If you want next level improvement, I can add:
 

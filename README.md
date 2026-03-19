@@ -1,12 +1,12 @@
-Here’s a more **complete and professional GitHub README with detailed outline, sections, and structure** (still clean and simple, no emojis):
 
----
+
+
 
 # Scheme Seva - Government Scheme Management Portal
 
 A centralized web platform designed to help citizens discover, understand, and access government welfare schemes efficiently.
 
----
+
 
 ## Table of Contents
 
@@ -24,13 +24,13 @@ A centralized web platform designed to help citizens discover, understand, and a
 * Contributing
 * License
 
----
+
 
 ## Overview
 
 Scheme Seva provides a single platform where users can explore various government schemes, check eligibility, and receive personalized recommendations. The system aims to improve awareness and accessibility of welfare programs.
 
----
+
 
 ## Problem Statement
 
@@ -41,7 +41,7 @@ Many citizens are unable to benefit from government schemes due to:
 * Difficulty understanding eligibility criteria
 * Complex application procedures
 
----
+
 
 ## Solution
 
@@ -52,7 +52,7 @@ Scheme Seva addresses these issues by offering:
 * AI-based chatbot assistance
 * Personalized recommendations
 
----
+
 
 ## Features
 
@@ -67,7 +67,7 @@ Scheme Seva addresses these issues by offering:
   * State
   * Category
 
----
+
 
 ### 2. AI Chatbot
 
@@ -80,7 +80,7 @@ Scheme Seva addresses these issues by offering:
   * Application process
 * Supports multiple languages
 
----
+
 
 ### 3. User Management
 
@@ -89,7 +89,7 @@ Scheme Seva addresses these issues by offering:
 * Save and manage favorite schemes
 * Track user interactions
 
----
+
 
 ### 4. Recommendation System
 
@@ -100,7 +100,7 @@ Scheme Seva addresses these issues by offering:
   * Interests
   * Previous activity
 
----
+
 
 ## System Architecture
 
@@ -111,7 +111,7 @@ The application follows a client-server architecture:
 * MongoDB is used for data storage
 * AI chatbot is integrated using external API
 
----
+
 
 ## Tech Stack
 
@@ -135,7 +135,7 @@ The application follows a client-server architecture:
 
 * Google Gemini API
 
----
+
 
 ## Installation and Setup
 
@@ -143,9 +143,9 @@ The application follows a client-server architecture:
 
 ```bash
 git clone https://github.com/9582anupam/scheme-seva
-```
 
----
+
+
 
 ### 2. Install Dependencies
 
@@ -155,15 +155,15 @@ npm install
 
 cd ../Backend
 npm install
-```
 
----
+
+
 
 ## Environment Variables
 
 Create a `.env` file in the Backend directory and add:
 
-```
+
 PORT=5000
 MONGODB_URI=your_mongodb_uri
 ACCESS_TOKEN_SECRET=your_access_token_secret

@@ -223,9 +223,7 @@ npm start
 
 
 
-## Folder Structure
-
-
+Folder Structure
 scheme-seva/
 │
 ├── Frontend/
